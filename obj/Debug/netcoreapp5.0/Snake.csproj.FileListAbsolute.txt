@@ -1,0 +1,16 @@
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\bin\Debug\netcoreapp5.0\Snake.exe
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\bin\Debug\netcoreapp5.0\Snake.deps.json
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\bin\Debug\netcoreapp5.0\Snake.runtimeconfig.json
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\bin\Debug\netcoreapp5.0\Snake.runtimeconfig.dev.json
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\bin\Debug\netcoreapp5.0\Snake.dll
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\bin\Debug\netcoreapp5.0\ref\Snake.dll
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\bin\Debug\netcoreapp5.0\Snake.pdb
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\obj\Debug\netcoreapp5.0\Snake.csproj.AssemblyReference.cache
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\obj\Debug\netcoreapp5.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\obj\Debug\netcoreapp5.0\Snake.AssemblyInfoInputs.cache
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\obj\Debug\netcoreapp5.0\Snake.AssemblyInfo.cs
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\obj\Debug\netcoreapp5.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\obj\Debug\netcoreapp5.0\Snake.dll
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\obj\Debug\netcoreapp5.0\ref\Snake.dll
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\obj\Debug\netcoreapp5.0\Snake.pdb
+C:\Users\strej\OneDrive\Coding\C#\Snake\Snake\obj\Debug\netcoreapp5.0\Snake.genruntimeconfig.cache
